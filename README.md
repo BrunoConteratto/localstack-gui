@@ -15,8 +15,8 @@
 ## Recursos
 
 - [ ] Dashboard.
-- [-] Buckets.
-- [-] Lambdas.
+- [x] Buckets.
+- [ ] Lambdas.
 - [ ] Elastic Compute Cloud (EC2).
 - [ ] Relational Database Service (RDS).
 - [ ] Simple Email Service (SES).
